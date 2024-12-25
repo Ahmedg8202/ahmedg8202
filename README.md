@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
-<h3 align="center">A passionate Full Stack .NET Developer from Egypt</h3>
+<h3 align="center">Full Stack .NET Developer <a href="https://linkedin.com/in/ahmedg8202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />Atos</a>
+</h3>
+<h4 align="center">Full Stack .NET Developer from Egypt</hh4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgamal&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedgamal" /> </p>
 
 - 🔭 I’m currently working on **ExamApplication**  
-- 🌱 I’m currently learning **.NET, Angular, and Cloud Native Topics**  
+- 🌱 I’m currently learning **.NET and Angular Topics**  
 - 👯 I’m looking to collaborate on **ASP.NET and Angular Projects**  
 - 📫 How to reach me **ahmedg8202@gmail.com**  
 
