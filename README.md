@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
-<h3 align="center">Full Stack .NET Developer <a href="https://linkedin.com/in/ahmedg8202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />Atos</a>
+<h3 align="center">Full Stack .NET Developer <a href="https://www.linkedin.com/company/atos" target="blank">Atos</a>
 </h3>
 <h4 align="center">Full Stack .NET Developer from Egypt</hh4>
 
