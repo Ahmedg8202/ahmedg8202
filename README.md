@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Gamal</h1>
 <h3 align="center">Full Stack .NET Developer <a href="https://www.linkedin.com/company/atos" target="blank">Atos</a>
 </h3>
-<h4 align="center">Full Stack .NET Developer from Egypt</hh4>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedgamal&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedgamal" /> </p>
+<h4 align="center">Full Stack .NET Developer from Egypt</h4>
 
 - 🔭 I’m currently working on **ExamApplication**  
 - 🌱 I’m currently learning **.NET and Angular Topics**  
