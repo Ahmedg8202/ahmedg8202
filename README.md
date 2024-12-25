@@ -15,10 +15,28 @@
 </p>
 
 ### Languages and Tools:
-<p align="left"> 
-<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg" alt=".NET" width="40" height="40"/> </a>
-<a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="40" height="40"/> </a>
-</p>
+<a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dot-net.svg" alt=".NET" width="40" height="40" class="dot-net-icon"/> </a>
+<a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg" alt="angular" width="40" height="40" class="angular-icon"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="html5" width="40" height="40" class="html5-icon"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="40" height="40" class="css3-icon"/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="40" height="40" class="javascript-icon"/> </a>
+
+.dot-net-icon {
+    filter: invert(100%); /* Inverts colors to make it black */
+}
+
+.angular-icon {
+    color: #DD0031; /* Angular red */
+}
+
+.html5-icon {
+    color: #E44D26; /* HTML5 orange */
+}
+
+.css3-icon {
+    color: #2965F1; /* CSS3 blue */
+}
+
+.javascript-icon {
+    color: #F0DB4F; /* JavaScript yellow */
+}
