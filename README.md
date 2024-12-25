@@ -21,22 +21,4 @@
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="css3" width="40" height="40" class="css3-icon"/> </a>
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="javascript" width="40" height="40" class="javascript-icon"/> </a>
 
-.dot-net-icon {
-    filter: invert(100%); /* Inverts colors to make it black */
-}
-
-.angular-icon {
-    color: #DD0031; /* Angular red */
-}
-
-.html5-icon {
-    color: #E44D26; /* HTML5 orange */
-}
-
-.css3-icon {
-    color: #2965F1; /* CSS3 blue */
-}
-
-.javascript-icon {
-    color: #F0DB4F; /* JavaScript yellow */
-}
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
