@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ahmedg8202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedg8202" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ahmedg8202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmedg8202" height="30" width="40" /></a>
-<a href="https://medium.com/ahmedg8202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ahmedg8202" height="30" width="40" /></a>
+<a href="https://medium.com/@ahmedg8202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ahmedg8202" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ahmedg8202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmedg8202" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmedg8202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmedg8202" height="30" width="40" /></a>
 </p>
